@@ -35,7 +35,6 @@ Como ves tendras dos tres opciones , buscar ciudad , historial de tus busquedas 
 
 - ## Historial :
     La aplicación tiene la capacidad de mantener el historial de tus ultimas 6 búsquedas , no importas si bajas la aplicación , esta información no se perdera.
-    Este historial se ve de la siguiente menera :
 
     ![Vista del historial](https://i.postimg.cc/WzqSgbGm/Node-clima-app-Vista-Historial.png)
 
